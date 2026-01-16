@@ -45,9 +45,10 @@ Excel では煩雑だった料金計算を **pandas によって高速かつ正�
 ---
 
 ## 🛠 使用技術
-- Python  
-- pandas  
-- numpy  
+
+- Python 
+- pandas
+- numpy
 - Jupyter Notebook  
 
 ---
